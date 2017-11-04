@@ -1,0 +1,125 @@
+body
+{
+    margin-left: 300px;
+    padding: 0;
+    width: 65%;
+}
+.first
+{
+    overflow: auto;
+}
+.logo
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+.more
+{
+    float: right;
+    margin: 30px 20px 0 0;
+}
+.more a:hover
+{
+    color: blue;
+}
+.line
+{
+    float: inherit;
+    margin: 55px 0 0 0;
+}
+
+.menu
+{
+    float: right;
+    
+}
+.menu ul
+{
+    list-style: none;
+    margin-top: 5px;
+}
+.menu ul li a
+{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+.menu ul li a:hover
+{
+    color: blue;
+}
+.more a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+/*form giong nhau cua 3 sam pham*/
+
+.figure1
+{
+    border: 1px solid #c5c1c1;
+    width: 388px;
+    height: 410px;
+    margin: 7px;
+}
+.title
+{
+    margin: 15px 0 0 20px;
+    height: 38px;
+    color: black;
+}
+.botle
+{
+    text-decoration: none;
+}
+.botle:hover .title
+{
+    color: blue;
+}
+.digital
+{
+    display: flex;
+    margin-bottom: 50px;
+}
+.digital div
+{
+    display: block;
+    margin-left: 150px;
+}
+.sale 
+{
+    list-style: none;
+}
+.sale p
+{
+    color: #ff3100;
+    font-size: 20px;
+    margin: 40px 0 5px 15px;
+}
+.edit
+{
+    margin: 10px 0 5px 0;
+    font-size: 14px;
+    color: rgb(194, 191, 191);
+}
+.cost
+{
+    margin: 10px 0 5px 60px;
+    font-size: 24px;
+}
+.edit span
+{
+    color: black;
+    margin-left: 3px;
+}
+.seconds
+{
+    width: 1199px;
+    display: flex;
+    margin-top: 30px;
+}
+
+/*form khac nhau: em ms repaear lai nen not different*/
