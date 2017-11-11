@@ -1,0 +1,67 @@
+@media only screen and (min-width:320px) {
+.logo-background {
+    background: #e2534b;
+}
+
+.color-form {
+    height: 245px;
+    margin-top: 35px;
+    margin-bottom: 36px;
+}
+.title-insal {
+    line-height: 38px;
+    color: white;
+}
+.box-user {
+    margin-top: 40px;
+}
+.box-password {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.forgot {
+    float: right;
+}
+.form-background {
+    height: 330px;
+}
+.color-full {
+    background: #e2534b;
+}
+}
+
+
+@font-face {
+    font-family: 'icomoon';
+    src:  url('fonts/icomoon.eot?lzc34l');
+    src:  url('fonts/icomoon.eot?lzc34l#iefix') format('embedded-opentype'),
+      url('fonts/icomoon.ttf?lzc34l') format('truetype'),
+      url('fonts/icomoon.woff?lzc34l') format('woff'),
+      url('fonts/icomoon.svg?lzc34l#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-user-tie:before {
+    content: "\e976";
+  }
+  .icon-key:before {
+    content: "\e98d";
+  }
+
+  

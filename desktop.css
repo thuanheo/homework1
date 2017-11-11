@@ -1,0 +1,14 @@
+@media only screen and (min-width:992px) {
+.logo-background {
+    height: 330px;
+}
+.logo-insal {
+    margin-top: 95px;
+}
+.color-form {
+    background: #e2534b;
+}
+.form-background {
+    background: white;
+}
+}
